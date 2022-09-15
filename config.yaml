@@ -60,9 +60,9 @@ menu:
     - name: about
       url: "/about/"
       weight: 2
-  #footer:
-    #- name: RSS
-      #url: "https://curioushieu.com"
+  footer:
+    - name: copyright
+      url: "hieu 2022"
 
 markup:
   highlight:
