@@ -1,6 +1,6 @@
 ---
 title: my favorite problems
-date: 2022-09-15T21:14:57.072Z
+date: 2022-09-13T15:47:46.529Z
 thumbnail: /images/uploads/eric-johnson-5li2ygvhhbe-unsplash.jpeg
 ---
 1. How do we raise kids (& animals) to enable resilience & instincts to reconnect after trauma?
