@@ -15,8 +15,8 @@ params:
   # Default to true
   enableFootnotes: true
   
-  siteName: "Hugo Tania is Amazing"
-  siteDesc: "Hugo is Absurdly Fast!"
+  siteName: "curious hieu"
+  siteDesc: "thought explorations"
   author: "hieu"
 
 
