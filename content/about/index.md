@@ -1,5 +1,5 @@
 ---
-title: about
+title: About
 date: 2022-09-15
 type: page
 draft: false
@@ -28,16 +28,15 @@ All this experience has led me to write about healing from trauma.
 
 There's a way to thrive while living with severe depression. All without repeating the same mistakes I made.
 
-
-## Mission
+### Mission
 1. To live life for myself, not the expectations of others.
 2. To leave it better than I found it.
 3. To get out of my own way.
     
-## Values
+### Values
 1. Choose courage.
 2. Vulnerability is a strength.
 3. Nurture curiosity.
 
-## Disclaimer
+### Disclaimer
 opinions expressed here are my own and not those of my employer or any past employer.
