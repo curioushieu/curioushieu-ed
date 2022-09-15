@@ -6,19 +6,13 @@ draft: false
 disableComments: true
 ---
 
-welcome to my corner of the internet. 
-
-a loose collection of thoughts-in-progress & curiosities explored.
-
-say [hello](mailto:hieu6n@gmail.com).
-
----
-
 **Who am I?**
+
+Hi, I'm hieu.
 
 I grew up in a small town in the San Francisco East Bay. As part of a small immigrant Vietnamese family, I have always valued survival against all odds. 
 
-I studied Sociology. I learned how to dive deep and ask hard-to-answer questions to unlock potential in others.
+I studied Sociology at SFSU. I learned how to dive deep and ask hard-to-answer questions to unlock potential in others.
 
 I pursued a career in sales, where curiosity and empathy enabled collaboration on values alignment.
 
