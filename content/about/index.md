@@ -24,9 +24,9 @@ I pursued a career in sales, where curiosity and empathy enabled collaboration o
 
 By overcoming CPTSD, I learned how to break the cycle of trauma by creating coping strategies. 
 
-All this experience has led me to write about healing strategies. 
+All this experience has led me to write about healing from trauma. 
 
-There's a way to thrive while living with many traumas. All without repeating the same mistakes I made.
+There's a way to thrive while living with severe depression. All without repeating the same mistakes I made.
 
 
 ## Mission
