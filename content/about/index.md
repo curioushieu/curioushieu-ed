@@ -6,9 +6,7 @@ draft: false
 disableComments: true
 ---
 
-**Who am I?**
-
-Hi, I'm hieu.
+Hi, I'm hieu nguyen (they/them).
 
 I grew up in a small town in the San Francisco East Bay. As part of a small immigrant Vietnamese family, I have always valued survival against all odds. 
 
