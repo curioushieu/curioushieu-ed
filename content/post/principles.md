@@ -3,20 +3,22 @@ title: principles
 date: 2020-09-21T04:23:25.872Z
 thumbnail: /images/uploads/eric-johnson-5li2ygvhhbe-unsplash.jpeg
 ---
-
 **being yourself takes courage.** finding yourself is painful, and standing up for yourself can be a lonely experience.
 
 **vulnerability**, as nerve-wracking as it is, can be cathartic.
 
-**do not be afraid of fear.** it will pass, and everything will be okay. the growth that you get from stepping up and speaking out is always worth it.
+**do not be afraid of fear.** it will pass, and everything will be okay. 
+the growth that you get from stepping up and speaking out is always worth it.
 
 **do not settle for less than you deserve.** 
 
-**respect** means taking responsibility for harm caused, and **love** means doing the labor of repair.
+**respect** means taking responsibility for harm caused
 
-**stand by your values.** even when it means that people that you care about no longer make the cut.
+**love** means doing the labor of repair.
 
-**do not make yourself small to be loved.** saying no means saying yes to yourself.
+**stand by your values.** saying no means saying yes to yourself.
+
+**do not make yourself small to be loved.** even when it means that people that you care about no longer make the cut.
 
 **laughter is a salve for many wounds.** find joy. it is there, find it.
 
