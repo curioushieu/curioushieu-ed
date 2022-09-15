@@ -16,29 +16,21 @@ params:
   enableFootnotes: true
   
   siteName: "curious hieu"
-  siteDesc: "thought explorations"
-  author: "hieu"
+  siteDesc: "thoughts-in-progress & curiosities explored."
+  author: "hieu nguyen"
 
 
   # Limit how many categories filter show above search input.
   # Default to 5
   maxCategoryToShow: 10
 
-  # Show your socail information with icon on index bio with `_index.md` content.
+  # Show your social information with icon on index bio with `_index.md` content.
   socialOptions:
-    dev-to:
-    email:
-    facebook:
-    github:
-    instagram:
-    linkedin:
-    medium:
-    stack-overflow:
+    email: hieu6n@gmail.com
+    linkedin: https://www.linkedin.com/in/hieu6/
     steam:
     telegram:
     twitter:
-    twitch:
-    whatsapp:
   
   # Comments settings
   comments:
