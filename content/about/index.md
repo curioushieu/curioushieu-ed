@@ -16,7 +16,7 @@ say [hello](mailto:hieu6n@gmail.com).
 
 **Who am I?**
 
-I grew up in a small town in the San Francisco East Bay. As part of an immigrant Vietnamese family, I have always valued survival against all odds. 
+I grew up in a small town in the San Francisco East Bay. As part of a small immigrant Vietnamese family, I have always valued survival against all odds. 
 
 I studied Sociology. I learned how to dive deep and ask hard-to-answer questions to unlock potential in others.
 
