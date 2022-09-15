@@ -61,7 +61,7 @@ menu:
       url: "/about/"
       weight: 2
   footer:
-    - name: Copyright © 2020 hieu nguyen
+    - name: copyright © 2022 hieu nguyen
       url: ""
 
 markup:
