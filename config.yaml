@@ -61,8 +61,8 @@ menu:
       url: "/about/"
       weight: 2
   footer:
-    - name: copyright
-      url: "hieu 2022"
+    - name: copyright hieu nguyen 2022
+      url: ""
 
 markup:
   highlight:
