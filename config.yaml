@@ -63,6 +63,8 @@ menu:
   footer:
     - name: copyright © 2022 hieu nguyen
       url: ""
+    - name: contact
+      url: "mailto:hieu6n@gmail.com"
 
 markup:
   highlight:
