@@ -2,6 +2,7 @@
 title: my favorite problems
 date: 2022-09-13T15:47:46.529Z
 ---
+
 1. How do we raise kids (& animals) to enable resilience & instincts to reconnect after trauma?
 2. How can we reframe mental health therapy for conservative cultures?
 3. What support systems do immigrant refugees need to minimize further reinforcement of intergenerational trauma?
@@ -15,3 +16,5 @@ date: 2022-09-13T15:47:46.529Z
 11. How do I grieve without gaslighting myself or holding on to toxic values?
 12. How do I live a good life outside of ideals of capitalism?
 13. How do I prepare for a sustainable life as climate change disrupts current norms?
+
+*Based on 12 Favorite Problems exercise in Tiago Forte's Building a Second Brain workshop*
