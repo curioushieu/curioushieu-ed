@@ -3,7 +3,7 @@ title: who are you?
 date: 2022-09-15T22:43:42.881Z
 ---
 
-## do you ever get the feeling that you don't remember who you are anymore?
+## do you ever get the feeling that you cannot remember who you are anymore?
 
 especially when depression repeatedly forced you into isolation.
 
@@ -18,7 +18,7 @@ it comes back sometimes.
 when you finally make it on the other side,
 it feels like you're starting all over. again.
 
-## do you truly exist if no one knows how much you've changed?
+## do you truly exist if no one knows how much you have changed?
 
 who you've worked so hard to become?
 
@@ -36,7 +36,7 @@ remember what's important to you.
 ammunition against the lies.
 home base to return to.
 
-## you know why you're here.
+## you know why you are here.
 
 don't forget: you matter.
 

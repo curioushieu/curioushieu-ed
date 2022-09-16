@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/post/a-fork-in-the-road.md",
+            "file": "content/about/index.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/a-fork-in-the-road.md",
+                "file": "content/about/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/a-fork-in-the-road.md",
+                "file": "content/about/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/a-fork-in-the-road.md"
+                "file": "content/about/index.md"
               }
             }
           }
@@ -130,11 +130,11 @@
   },
   "active": "1fafa6cd7402b02b",
   "lastOpenFiles": [
-    "content/post/mission.md",
+    "content/post/who-are-you.md",
     "content/post/a-fork-in-the-road.md",
+    "content/post/mission.md",
     "content/post/my-12-favorite-problems.md",
     "content/post/principles.md",
-    "content/post/who-are-you.md",
     "content/posts.md",
     "content/about/index.md",
     "content/_index.md",
