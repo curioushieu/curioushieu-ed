@@ -6,7 +6,7 @@ draft: false
 disableComments: true
 ---
 
-Hi! I'm hieu nguyen (they/them).
+Hi, I'm hieu nguyen (they/them).
 
 I grew up in a small town in the San Francisco East Bay. 
 
@@ -23,16 +23,6 @@ All this experience has led me to write about my experience healing from trauma.
 There's a way to thrive while living with severe depression. 
 
 Hopefully without repeating the same mistakes I made.
-
-## Mission
-1. To live life for myself, not the expectations of others.
-2. To leave it better than I found it.
-3. To get out of my own way.
-    
-## Values
-1. Choose courage.
-2. Vulnerability is a strength.
-3. Nurture curiosity.
 
 ### Disclaimer
 opinions expressed here are my own and not those of my employer or any past employer.
