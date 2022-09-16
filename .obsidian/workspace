@@ -128,12 +128,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "de683ee091accb74",
+  "active": "504a0added81dfa4",
   "lastOpenFiles": [
-    "content/about/index.md",
-    "content/posts/a-fork-in-the-road.md",
-    "content/posts/my-12-favorite-problems.md",
     "content/posts/principles.md",
-    "content/posts/who-are-you.md"
+    "content/posts/my-12-favorite-problems.md",
+    "content/posts/mission.md",
+    "content/posts/a-fork-in-the-road.md",
+    "content/posts/who-are-you.md",
+    "content/about/index.md"
   ]
 }
