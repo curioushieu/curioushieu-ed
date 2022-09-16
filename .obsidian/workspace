@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/posts.md",
+            "file": "content/_index.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -130,9 +130,9 @@
   },
   "active": "1fafa6cd7402b02b",
   "lastOpenFiles": [
+    "content/posts.md",
     "content/_index.md",
     "content/post/mission.md",
-    "content/posts.md",
     "content/post/principles.md",
     "content/post/my-12-favorite-problems.md",
     "content/post/a-fork-in-the-road.md",
