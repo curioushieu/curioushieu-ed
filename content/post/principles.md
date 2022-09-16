@@ -2,6 +2,7 @@
 title: principles
 date: 2020-09-21T04:23:25.872Z
 ---
+
 **being yourself takes courage.** finding yourself is painful, and standing up for yourself can be a lonely experience.
 
 **vulnerability**, as nerve-wracking as it is, can be cathartic.
