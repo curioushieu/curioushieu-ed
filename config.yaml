@@ -47,7 +47,7 @@ params:
 menu:
   header:
     - name: posts
-      url: "/posts/"
+      url: "/post/"
       weight: 1
     - name: about
       url: "/about/"
