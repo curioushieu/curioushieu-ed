@@ -6,8 +6,7 @@ do you ever get the feeling that you don't remember who you are anymore?
 
 especially when depression repeatedly forced you into isolation.
 
-these days,
-you recognize your triggers and symptoms. 
+these days, you recognize your triggers and symptoms. 
 you've learned helpful coping tools.
 
 you feel joy. 
@@ -36,5 +35,7 @@ ammunition against the lies.
 home base to return to.
 
 you know why you're here.
+
 don't forget: you matter.
+
 you're enough.
