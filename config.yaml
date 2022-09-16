@@ -16,7 +16,7 @@ params:
   enableFootnotes: true
   
   siteName: "curious hieu"
-  siteDesc: "thoughts-in-progress & curiosities explored."
+  siteDesc: "thoughts in progress & curiosities explored."
   author: "hieu nguyen"
 
 
@@ -29,7 +29,6 @@ params:
     email: hieu6n@gmail.com
     linkedin: https://www.linkedin.com/in/hieu6/
     steam:
-    telegram:
     twitter:
   
   # Comments settings
@@ -47,7 +46,7 @@ params:
 menu:
   header:
     - name: posts
-      url: "/post/"
+      url: "/posts/"
       weight: 1
     - name: about
       url: "/about/"

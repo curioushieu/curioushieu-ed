@@ -2,6 +2,7 @@
 title: a fork in the road
 date: 2021-08-06T01:43:06.647Z
 ---
+
 *pandora’s box is closed right now. but are you under the impression that you live outside of the box or inside the box?*
 
 you’re living in pandora’s box and you’ve asked me to come here to open it up. we’re not gonna walk through this process without walking through some deep shit. there’s gonna be deep, swift waters.
