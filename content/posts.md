@@ -1,5 +1,5 @@
 ---
 title: posts
-subtitle: 
+subtitle: search by post title or body text.
 layout: "archives"
 ---

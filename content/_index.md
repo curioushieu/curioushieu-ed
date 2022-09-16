@@ -1,1 +1,2 @@
-an exploration of thoughts & curiosities.
+
+welcome to my exploration of thoughts & learnings.
