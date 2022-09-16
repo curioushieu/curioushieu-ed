@@ -1,7 +1,6 @@
 ---
 title: who are you?
 date: 2022-09-15T22:43:42.881Z
-thumbnail: /images/uploads/j-v-8konjx6dy4g-unsplash.jpeg
 ---
 do you ever get the feeling that you don't remember who you are anymore?
 

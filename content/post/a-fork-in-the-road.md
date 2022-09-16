@@ -1,7 +1,6 @@
 ---
 title: a fork in the road
 date: 2021-08-06T01:43:06.647Z
-thumbnail: /images/uploads/taylor-r-clki9_xcuis-unsplash.jpeg
 ---
 *pandora’s box is closed right now. but are you under the impression that you live outside of the box or inside the box?*
 

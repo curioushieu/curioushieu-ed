@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "b736ca932c376433",
+    "type": "split",
+    "children": [
+      {
+        "id": "504a0added81dfa4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "content/post/a-fork-in-the-road.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "57de895a3bbb07bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "75bfa0c2f8d1f000",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de683ee091accb74",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8e214629a505be2e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4ce5ce9cefe62ba6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d47a2548f24bd3b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8d4c9a8c0ba7ea9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30b828cb5ac224e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/post/a-fork-in-the-road.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "718d7a58624687da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/post/a-fork-in-the-road.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e3d351931e963284",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cd04b47e29f9b445",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/post/a-fork-in-the-road.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "504a0added81dfa4",
+  "lastOpenFiles": [
+    "content/post/my-12-favorite-problems.md",
+    "content/post/principles.md",
+    "content/post/who-are-you.md",
+    "content/post/a-fork-in-the-road.md"
+  ]
+}

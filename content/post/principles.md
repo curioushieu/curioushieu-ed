@@ -1,7 +1,6 @@
 ---
 title: principles
 date: 2020-09-21T04:23:25.872Z
-thumbnail: /images/uploads/eric-johnson-5li2ygvhhbe-unsplash.jpeg
 ---
 **being yourself takes courage.** finding yourself is painful, and standing up for yourself can be a lonely experience.
 
