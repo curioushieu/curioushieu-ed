@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/posts/mission.md",
+            "file": "content/post/mission.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/mission.md",
+                "file": "content/post/mission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/mission.md",
+                "file": "content/post/mission.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/mission.md"
+                "file": "content/post/mission.md"
               }
             }
           }
@@ -130,11 +130,11 @@
   },
   "active": "504a0added81dfa4",
   "lastOpenFiles": [
-    "content/posts/principles.md",
-    "content/posts/my-12-favorite-problems.md",
-    "content/posts/mission.md",
-    "content/posts/a-fork-in-the-road.md",
-    "content/posts/who-are-you.md",
+    "content/post/my-12-favorite-problems.md",
+    "content/post/mission.md",
+    "content/post/principles.md",
+    "content/post/a-fork-in-the-road.md",
+    "content/post/who-are-you.md",
     "content/about/index.md"
   ]
 }
