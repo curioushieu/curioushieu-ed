@@ -18,7 +18,5 @@ By overcoming CPTSD and severe depression I learned how to develop coping strate
   
 All this experience has led me to write about coping with CPTSD in order to help people thrive while living with intergenerational trauma, without repeating the same mistakes that I made.
 
----
-
 #### Disclaimer
 *opinions expressed here are my own and not those of my employer or any past employer.*
