@@ -3,8 +3,6 @@ title: does it hurt when a caterpillar transforms into a butterfly?
 date: 2021-08-15T04:23:25.872Z
 ---
 
-## does it hurt when a caterpillar transforms into a butterfly?
-
 How does a caterpillar rearrange itself into a butterfly? What happens inside a chrysalis or cocoon?
 
 **First, the caterpillar digests itself, releasing enzymes to dissolve all of its tissues. If you were to cut open a cocoon or chrysalis at just the right time, caterpillar soup would ooze out.**
