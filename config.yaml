@@ -63,5 +63,8 @@ markup:
     renderer:
       unsafe: true
 
+blackfriday:
+ smartypants: false
+
 outputs:
   home: ["HTML", "RSS", "JSON"]
