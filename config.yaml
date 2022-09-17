@@ -16,13 +16,13 @@ params:
   enableFootnotes: true
   
   siteName: "curious hieu"
-  siteDesc: "thoughts in progress & curiosities explored."
+  siteDesc: "thoughts in progress."
   author: "hieu nguyen"
 
 
   # Limit how many categories filter show above search input.
   # Default to 5
-  maxCategoryToShow: 10
+  maxCategoryToShow: 5
 
   # Show your social information with icon on index bio with `_index.md` content.
   socialOptions:
@@ -64,6 +64,7 @@ markup:
       unsafe: true
     extensions:
       typographer: false
+      linkify: true
 
 outputs:
   home: ["HTML", "RSS", "JSON"]
