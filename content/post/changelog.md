@@ -15,3 +15,9 @@ date: 2022-09-16T05:24:25.872Z
 
 ---
 
+### add `series` taxonomy
+
+- having trouble defining layout for series page.
+- perhaps I'm not understanding difference between `categories`, `series`, and `tags`
+- existing `posts` page will also list all tags and group similar tagged posts.
+- 
