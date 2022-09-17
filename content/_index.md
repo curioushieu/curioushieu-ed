@@ -1,3 +1,6 @@
 # hi, I'm hieu! 🌻
 
 my goal is to destigmitize open discussion of mental health healing, and develop strong coping strategies for living with ADHD & CPTSD.
+
+
+[test about link](https://curioushieu.com/about/)
