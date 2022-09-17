@@ -62,6 +62,7 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+    typographer: false
 
 blackfriday:
  smartypants: false

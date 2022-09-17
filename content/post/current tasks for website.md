@@ -11,4 +11,5 @@ date: 2022-09-16T05:24:25.872Z
 - [ ] create header menu for post series on pillar topics
 	- [ ] setup config.yaml taxonomies to include `series`
 	- [ ] setup layout to group `related posts` in a `series`
+- [ ] fix goldmark auto rendering of smart quotes `&rsquo;`
 - [ ] 
