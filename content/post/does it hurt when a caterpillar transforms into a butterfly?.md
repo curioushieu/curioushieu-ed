@@ -1,6 +1,6 @@
 ---
 title: does it hurt when a caterpillar transforms into a butterfly?
-date: 08/15/2021
+date: 08/15/2021T04:23:25.872Z
 ---
 
 ## does it hurt when a caterpillar transforms into a butterfly?
