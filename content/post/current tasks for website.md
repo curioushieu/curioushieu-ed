@@ -8,6 +8,7 @@ date: 2022-09-16T05:24:25.872Z
 	- [ ] check CSS styling for hyperlinks to outside sites 
 		- [ ] underline
 		- [ ] emphasis on hover
+	- [ ] goldmark?
 - [ ] create header menu for post series on pillar topics
 	- [ ] setup config.yaml taxonomies to include `series`
 	- [ ] setup layout to group `related posts` in a `series`
