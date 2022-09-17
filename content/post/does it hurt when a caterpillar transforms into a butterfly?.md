@@ -1,6 +1,6 @@
 ---
 title: does it hurt when a caterpillar transforms into a butterfly?
-date: 2021-08-15T04:23:25.872Z
+date: 2021-08-015T01:43:06.647Z
 ---
 
 How does a caterpillar rearrange itself into a butterfly? What happens inside a chrysalis or cocoon?
