@@ -1,6 +1,4 @@
-
-
-hi, I'm hieu! 🌻
+# hi, I'm hieu! 🌻
 
 welcome to my exploration of thoughts & learnings.
 
