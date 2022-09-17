@@ -62,10 +62,8 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-    typographer: false
-
-blackfriday:
- smartypants: false
+    extensions:
+      typographer: false
 
 outputs:
   home: ["HTML", "RSS", "JSON"]
