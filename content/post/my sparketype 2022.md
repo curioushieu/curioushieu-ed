@@ -17,6 +17,8 @@ While you see yourself as someone who is wise and skilled, it's less about teach
 
 Because of this, you can often walk into nearly any setting, industry or field and fairly quickly feel at home, even if you don't have deep domain-specific expertise. You just know your ability to apply your unique lens, focused awareness, and skills as an advisor and mentor are robust enough to give anyone what they need in nearly any endeavor.
 
+---
+
 ![The Maven](/static/images/uploads/shadow-sparketype-maven.png)
 
 Remember, your Primary Sparketype (above) represents the essential nature of the work you're here to do. Your core driver of purpose, passion, expression and flow in work and life. Your Shadow Sparketype, on the other hand, is also a big part of you. Some may feel its call nearly as strongly. Your Shadow Sparketype most often reveals the work that you may well enjoy and have developed a high level of skill around, BUT it is also largely taken up in service of doing the work of your Primary Sparketype better.
