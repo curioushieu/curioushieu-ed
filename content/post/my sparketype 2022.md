@@ -7,7 +7,7 @@ date: 2022-09-17T20:39:46.529Z
 
 ---
 
-{{ $image := .Resources.GetMatch "primary-sparketype-advisor.png" }}
+{{ $image := resources.Get "assets/images/primary-sparketype-advisor.png" }}
 
 Your Primary Sparketype reveals the essential nature or "driver" of the work you're here to do (whether it's the work you get paid to do, or not). When you do the work of your Primary Sparketype, you come alive with purpose and, fully-expressed in a healthy way, deepen into meaning, flow, connection and joy.
 
