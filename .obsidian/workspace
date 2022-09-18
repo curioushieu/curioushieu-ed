@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "content/post/my sparketype 2022.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -128,7 +128,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "de683ee091accb74",
+  "active": "32c40ec5141840f8",
   "lastOpenFiles": [
     "content/post/changelog.md",
     "content/post/my sparketype 2022.md",
