@@ -7,7 +7,7 @@ date: 2022-09-17T20:39:46.529Z
 
 ---
 
-![The Advisor](/static/images/uploads/primary-sparketype-advisor.png)
+![The Advisor](primary-sparketype-advisor.png)
 
 Your Primary Sparketype reveals the essential nature or "driver" of the work you're here to do (whether it's the work you get paid to do, or not). When you do the work of your Primary Sparketype, you come alive with purpose and, fully-expressed in a healthy way, deepen into meaning, flow, connection and joy.
 
@@ -19,7 +19,7 @@ Because of this, you can often walk into nearly any setting, industry or field a
 
 ---
 
-![The Maven](/static/images/uploads/shadow-sparketype-maven.png)
+![The Maven](shadow-sparketype-maven.png)
 
 Remember, your Primary Sparketype (above) represents the essential nature of the work you're here to do. Your core driver of purpose, passion, expression and flow in work and life. Your Shadow Sparketype, on the other hand, is also a big part of you. Some may feel its call nearly as strongly. Your Shadow Sparketype most often reveals the work that you may well enjoy and have developed a high level of skill around, BUT it is also largely taken up in service of doing the work of your Primary Sparketype better.
 
