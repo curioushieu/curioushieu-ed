@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 236.5
   },
   "right": {
     "id": "d47a2548f24bd3b5",
@@ -128,7 +128,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "32c40ec5141840f8",
+  "active": "de683ee091accb74",
   "lastOpenFiles": [
     "content/post/changelog.md",
     "content/post/my sparketype 2022.md",
