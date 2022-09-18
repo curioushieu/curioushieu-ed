@@ -1,4 +1,4 @@
-# hi, I'm hieu! 🌻
+# hi, I'm hieu 🌻
 
 welcome to my digital garden! here I tend to thoughts and learnings in progress.
 
