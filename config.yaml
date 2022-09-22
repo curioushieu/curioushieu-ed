@@ -53,6 +53,9 @@ menu:
     - name: posts
       url: "/posts/"
       weight: 1
+    - name: categories
+      url: "/categories/"
+      weight: 2
     - name: about
       url: "/about/"
       weight: 3
