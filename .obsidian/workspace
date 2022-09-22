@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/about/index.md",
+            "file": "content/about.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/about/index.md",
+                "file": "content/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/about/index.md",
+                "file": "content/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/about/index.md"
+                "file": "content/about.md"
               }
             }
           }
@@ -130,6 +130,8 @@
   },
   "active": "32c40ec5141840f8",
   "lastOpenFiles": [
+    "content/about/index.md",
+    "content/about.md",
     "content/post/changelog.md",
     "content/post/a-fork-in-the-road.md",
     "content/post/principles.md",
@@ -137,8 +139,6 @@
     "content/post/my favorite problems.md",
     "content/post/does it hurt when a caterpillar transforms into a butterfly?.md",
     "content/post/who benefits from gatekeeping wisdom?.md",
-    "content/posts.md",
-    "content/_index.md",
-    "content/post/my sparketype 2022.md"
+    "content/posts.md"
   ]
 }
