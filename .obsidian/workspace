@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/post/principles.md",
+            "file": "content/post/a-fork-in-the-road.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/principles.md",
+                "file": "content/post/a-fork-in-the-road.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/principles.md",
+                "file": "content/post/a-fork-in-the-road.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/principles.md"
+                "file": "content/post/a-fork-in-the-road.md"
               }
             }
           }
@@ -130,10 +130,10 @@
   },
   "active": "32c40ec5141840f8",
   "lastOpenFiles": [
+    "content/post/principles.md",
     "content/post/mission.md",
     "content/post/my favorite problems.md",
     "content/post/does it hurt when a caterpillar transforms into a butterfly?.md",
-    "content/post/principles.md",
     "content/post/who benefits from gatekeeping wisdom?.md",
     "content/posts.md",
     "content/_index.md",

@@ -1,7 +1,7 @@
 ---
 title: my favorite problems
 date: 2022-09-13T15:47:46.529Z
-series: life design
+categories: life design
 ---
 
 1. How do we raise kids (& animals) to enable resilience & instincts to reconnect after trauma?
