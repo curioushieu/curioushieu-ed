@@ -1,6 +1,6 @@
 ---
 title: mission
-date: 2022-09-15T05:08:25.872Z
+date: c
 ---
 
 1. Live life for myself, not the expectations of others.
