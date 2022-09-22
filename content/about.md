@@ -2,7 +2,7 @@
 title: about
 date: 2022-09-15
 type: about
-draft: false
+draft: true
 disableComments: true
 ---
 

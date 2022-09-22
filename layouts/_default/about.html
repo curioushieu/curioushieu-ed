@@ -6,10 +6,6 @@
                 <div>
                     <h1>{{ .Title }}</h1>
                     <div class="post-meta">
-                        <div>
-                            <time>{{ .Date.Format "January 02, 2006" }}</time>
-                            | {{ .ReadingTime }} min.
-                        </div>
                     </div>
                 </div>
             </div>
@@ -22,25 +18,6 @@
     </div>
 </div>
 
-<div class="container">
-    {{ if .Section }}
-    <nav class="flex container suggested">
-        {{ with .PrevInSection }}
-        <a rel="prev" href="{{ .RelPermalink }}" title="Previous post (older)">
-            <span>previous</span>
-            {{ .Title }}
-            </a>
-        {{ end }}
-        
-        {{ with .NextInSection }}
-        <a rel="next" href="{{ .RelPermalink }}" title="Next post (newer)">
-            <span>next</span>
-            {{ .Title }}
-            </a> 
-        {{ end }}
-    </nav>
-    {{ end }}
-</div>
 {{ if or (not (isset .Params "comments")) (eq .Params.comments "true")}} 
 <div class="container">
     {{ partial "comments/include" . }}
