@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/post/about me.md",
+            "file": "content/post/who benefits from gatekeeping wisdom?.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/about me.md",
+                "file": "content/post/who benefits from gatekeeping wisdom?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/about me.md",
+                "file": "content/post/who benefits from gatekeeping wisdom?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/about me.md"
+                "file": "content/post/who benefits from gatekeeping wisdom?.md"
               }
             }
           }
@@ -130,9 +130,9 @@
   },
   "active": "32c40ec5141840f8",
   "lastOpenFiles": [
+    "content/post/about me.md",
     "content/_index.md",
     "content/posts.md",
-    "content/post/about me.md",
     "content/post/mission.md",
     "content/about/index.md",
     "content/post/changelog.md",
