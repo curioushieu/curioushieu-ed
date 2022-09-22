@@ -6,6 +6,7 @@ paginate: 6
 taxonomies:
   category: categories
   tag: tags
+  series: series
 
 
 # disqusShortname: https-hugo-tania-netlify-app
@@ -53,12 +54,12 @@ menu:
     - name: posts
       url: "/posts/"
       weight: 1
-    - name: categories
-      url: "/categories/"
-      weight: 2
     - name: about
       url: "/about/"
       weight: 3
+    - name: series
+      url: "/series/"
+      weight: 2
   footer:
     - name: copyright © 2022 hieu nguyen
       url: ""
