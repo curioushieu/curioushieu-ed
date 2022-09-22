@@ -19,8 +19,8 @@
     <div class="article-post">
     {{ .Content }}
 
-    <div class="tags">
-        {{ range (.GetTerms "tags") }}
+    <div class="categories">
+        {{ range (.GetTerms "categories") }}
         <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
         {{ end }}
     </div>
