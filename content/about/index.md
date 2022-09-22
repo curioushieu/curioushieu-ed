@@ -1,9 +1,10 @@
 ---
 title: about
 date: 2022-09-15
-type: page
+type: single
 draft: false
 disableComments: true
+showrelated: false
 ---
 
 Hi, I'm hieu nguyen (they/them).

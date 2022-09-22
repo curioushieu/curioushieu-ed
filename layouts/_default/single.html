@@ -20,19 +20,12 @@
     {{ .Content }}
 
     {{$related := where .Site.RegularPages ".Params.categories" "eq" .Params.categories }}
-    <h5>related posts</h5>
+    <h4>related posts</h4>
         <ul>
           {{ range $related }}
               <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
           {{ end }}
         </ul>
-
-    <div class="categories">
-        {{ range (.GetTerms "categories") }}
-        <h5>category</h5>
-        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
-        {{ end }}
-    </div>
 
     </div>
 </div>
