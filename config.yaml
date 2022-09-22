@@ -56,6 +56,13 @@ menu:
   footer:
     - name: copyright © 2022 hieu nguyen
       url: ""
+      weight: 1
+    - name: made with Hugo 
+      url: "https://gohugo.io/"
+      weight: 2
+    - name: hosted on Netlify
+      url: "https://www.netlify.com/"
+      weight: 3
 
 markup:
   highlight:

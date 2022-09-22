@@ -130,15 +130,15 @@
   },
   "active": "32c40ec5141840f8",
   "lastOpenFiles": [
-    "content/post/mission.md",
+    "content/_index.md",
+    "content/posts.md",
     "content/post/about me.md",
+    "content/post/mission.md",
     "content/about/index.md",
     "content/post/changelog.md",
     "content/post/a-fork-in-the-road.md",
     "content/post/principles.md",
     "content/post/my favorite problems.md",
-    "content/post/does it hurt when a caterpillar transforms into a butterfly?.md",
-    "content/post/who benefits from gatekeeping wisdom?.md",
-    "content/posts.md"
+    "content/post/does it hurt when a caterpillar transforms into a butterfly?.md"
   ]
 }
