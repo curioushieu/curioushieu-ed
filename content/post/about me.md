@@ -1,8 +1,8 @@
 ---
-title: about
+title: about me
 date: 2022-09-15
-type: about
-draft: true
+draft: false
+categories: life design
 disableComments: true
 ---
 
