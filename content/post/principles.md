@@ -1,8 +1,7 @@
 ---
 title: principles
 date: 2020-09-21T04:23:25.872Z
-categories: life design
-series: yolo
+series: life design
 ---
 
 **being yourself takes courage.** finding yourself is painful, and standing up for yourself can be a lonely experience.
@@ -31,3 +30,4 @@ the growth that you get from stepping up and speaking out is always worth it.
 **you are a good person.** you are worth showing up for, and you matter. you deserve space to exist.
 
 **people care about you.** people *care* about you. you’re loved. *you’re so, so loved.*
+

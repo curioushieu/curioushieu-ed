@@ -1,6 +1,7 @@
 ---
 title: mission
-date: c
+date: 2021-09-12T01:43:06.647Z
+series: life design
 ---
 
 1. Live life for myself, not the expectations of others.
